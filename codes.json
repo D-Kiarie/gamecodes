@@ -1,1 +1,32 @@
-
+{
+  "RELEASE": {
+    "RewardType": "FundBux",
+    "Amount": 100,
+    "Enabled": true
+  },
+  "FUNBUX123": {
+    "RewardType": "FundBux",
+    "Amount": 50,
+    "Enabled": true
+  },
+  "TESTING": {
+    "RewardType": "FundBux",
+    "Amount": 50,
+    "Enabled": true
+  },
+  "BETA": {
+    "RewardType": "FundBux",
+    "Amount": 190,
+    "Enabled": true
+  },
+  "UPDATE1": {
+    "RewardType": "FundBux",
+    "Amount": 250,
+    "Enabled": false
+  },
+  "ONLYFUNDS": {
+    "RewardType": "FundBux",
+    "Amount": 100,
+    "Enabled": true
+  }
+}
