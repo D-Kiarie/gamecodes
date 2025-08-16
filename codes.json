@@ -1,32 +1,50 @@
 {
   "RELEASE": {
-    "RewardType": "FundBux",
-    "Amount": 100,
-    "Enabled": true
+    "enabled": true,
+    "description": "Welcome! Here are 100 FundBux to get you started.",
+    "allowedUserIds": [],
+    "rewards": [
+      { "type": "FundBux", "amount": 100 }
+    ]
   },
   "FUNBUX123": {
-    "RewardType": "FundBux",
-    "Amount": 50,
-    "Enabled": true
+    "enabled": true,
+    "description": "You've redeemed a special code for 50 FundBux!",
+    "allowedUserIds": [],
+    "rewards": [
+      { "type": "FundBux", "amount": 50 }
+    ]
   },
   "TESTING": {
-    "RewardType": "FundBux",
-    "Amount": 50,
-    "Enabled": true
+    "enabled": true,
+    "description": "Thanks for helping test the game! Enjoy 50 FundBux.",
+    "allowedUserIds": [12345678, 87654321],
+    "rewards": [
+      { "type": "FundBux", "amount": 50 }
+    ]
   },
   "BETA": {
-    "RewardType": "FundBux",
-    "Amount": 190,
-    "Enabled": true
+    "enabled": true,
+    "description": "As a beta tester, you've earned 190 FundBux!",
+    "allowedUserIds": [],
+    "rewards": [
+      { "type": "FundBux", "amount": 190 }
+    ]
   },
   "UPDATE1": {
-    "RewardType": "FundBux",
-    "Amount": 250,
-    "Enabled": false
+    "enabled": false,
+    "description": "This code has expired.",
+    "allowedUserIds": [],
+    "rewards": [
+      { "type": "FundBux", "amount": 250 }
+    ]
   },
   "ONLYFUNDS": {
-    "RewardType": "FundBux",
-    "Amount": 100,
-    "Enabled": true
+    "enabled": true,
+    "description": "A special gift of 100 FundBux just for you!",
+    "allowedUserIds": [1587954443],
+    "rewards": [
+      { "type": "FundBux", "amount": 100 }
+    ]
   }
 }
