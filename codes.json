@@ -17,8 +17,10 @@
   },
   "STEALABADBOOTH": {
     "enabled": true,
-    "description": "You've unlocked the 'Aint you Nathaniel Booth'!",
+    "description": "The spirits are pleased. You've unlocked the 'Aint you Nathaniel Booth'!",
     "allowedUserIds": [],
+    "requiresPart": "RandomPart",
+    "failMessage": "The spirits of the graveyard feel your presence, but not your touch. Get closer.",
     "rewards": [
       { "type": "Booth", "boothName": "StealABadbooth" }
     ]
