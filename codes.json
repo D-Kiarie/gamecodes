@@ -15,6 +15,14 @@
       { "type": "FundBux", "amount": 50 }
     ]
   },
+  "STEALABADBOOTH": {
+    "enabled": true,
+    "description": "You've unlocked the 'Aint you Nathaniel Booth'!",
+    "allowedUserIds": [],
+    "rewards": [
+      { "type": "Booth", "boothName": "StealABadbooth" }
+    ]
+  },
   "TESTING": {
     "enabled": true,
     "description": "Thanks for helping test the game! Enjoy 50 FundBux.",
