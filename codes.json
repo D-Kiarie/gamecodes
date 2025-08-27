@@ -49,6 +49,14 @@
       { "type": "FundBux", "amount": 250 }
     ]
   },
+  "DEVFUNDS": {
+    "enabled": true,
+    "description": "For Developers Only!",
+    "allowedUserIds": [1587954443],
+    "rewards": [
+      { "type": "FundBux", "amount": 25000 }
+    ]
+  },
   "ONLYFUNDS": {
     "enabled": true,
     "description": "A special gift of 100 FundBux just for you!",
