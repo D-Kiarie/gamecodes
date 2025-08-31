@@ -9,7 +9,7 @@
   },
   "SORRYFUNDBUX": {
     "enabled": true,
-    "description": "Sorry for the shutdown! Here’s 100 FundBux as compensation.",
+    "description": "Sorry for the shutdown! Here’s 50 FundBux as compensation.",
     "allowedUserIds": [],
     "rewards": [
       { "type": "FundBux", "amount": 50 }
