@@ -60,7 +60,7 @@
   "DEVFUNDS": {
     "enabled": true,
     "description": "For Developers Only!",
-    "allowedUserIds": [1587954443],
+    "allowedUserIds": [1587954443,1880130033,1847719254],
     "rewards": [
       { "type": "FundBux", "amount": 25000 }
     ]
