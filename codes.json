@@ -7,6 +7,14 @@
       { "type": "FundBux", "amount": 100 }
     ]
   },
+  "SORRYFUNDBUX": {
+    "enabled": true,
+    "description": "Sorry for the shutdown! Here’s 100 FundBux as compensation.",
+    "allowedUserIds": [],
+    "rewards": [
+      { "type": "FundBux", "amount": 50 }
+    ]
+  },
   "FUNBUX123": {
     "enabled": true,
     "description": "You've redeemed a special code for 50 FundBux!",
