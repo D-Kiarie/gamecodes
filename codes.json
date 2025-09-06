@@ -77,7 +77,7 @@
     "enabled": true,
     "description": "Welcome, community member! You've unlocked the exclusive Community Booth.",
     "allowedUserIds": [],
-    "mustBeInGroup": 12345678,
+    "mustBeInGroup": 8209783,
     "rewards": [
       { "type": "Booth", "boothName": "CommunityBooth" }
     ]
