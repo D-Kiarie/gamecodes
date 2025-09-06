@@ -72,5 +72,14 @@
     "rewards": [
       { "type": "FundBux", "amount": 100 }
     ]
+  },
+  "COMMUNITY": {
+    "enabled": true,
+    "description": "Welcome, community member! You've unlocked the exclusive Community Booth.",
+    "allowedUserIds": [],
+    "mustBeInGroup": 12345678,
+    "rewards": [
+      { "type": "Booth", "boothName": "CommunityBooth" }
+    ]
   }
 }
